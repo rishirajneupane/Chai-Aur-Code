@@ -1,7 +1,7 @@
-
-// function chai (){
-//     console.log(this);
-//     let username="rishi",
-//     console.log(this.username); //object ma matra kaam garekoxa , function ma use garna mileko xaina 
-// }
-// // chai()
+const temperature =41
+// if (temperature===41){
+//     console.log(" less than 41 degree");}
+//     else{
+//         // console.log("greater than 41 degree");
+//     }
+   
